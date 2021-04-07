@@ -8,7 +8,7 @@ import cucumber.api.junit.Cucumber;
 @RunWith(Cucumber.class)
 @CucumberOptions(
 
-		features = "C:\\Users\\mandulas\\eclipse-workspace\\OrangeHRPApplication\\src\\test\\java\\com\\qa\\features\\orange.feature",
+		features = "C:\\Users\\kudumalau\\Downloads\\cucumber_assignment-master\\cucumber_assignment-master\\src\\test\\java\\com\\qa\\features\\orange.feature\\orange.feature",
 		glue = "com.qa.stepdefination",
 		dryRun = false,
 		strict = true,
